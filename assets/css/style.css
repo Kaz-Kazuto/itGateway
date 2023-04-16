@@ -1673,5 +1673,54 @@ section {
 }
 
 .main-title{
-padding-bottom: 10px;
+padding: 20px 0 10px;
+}
+
+.product-line{
+  color: #000;
+  border: 1px solid;
+  opacity: 0.5;
+}
+
+/*------- product Laptop Style ---------*/
+.laptop-product{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.laptop-list{
+  list-style: none;
+  padding: 0px;
+}
+
+.form-check-label{
+  padding: 0px 8px;
+}
+
+.product-title-label{
+  font-weight: 600;
+  color: #ff6600;
+  font-size: 24px;
+}
+
+.ram-range{
+  display: flex;
+  align-items: center;
+}
+
+.value{
+  display: flex;
+  align-items: center;
+  padding: 2px ;
+}
+
+
+.value p{
+  margin: 0;
+}
+
+
+.range-slider_value{
+  padding: 0px 5px;
+ 
 }
